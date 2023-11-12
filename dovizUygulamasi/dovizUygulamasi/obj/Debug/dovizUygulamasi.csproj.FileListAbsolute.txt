@@ -1,0 +1,10 @@
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\bin\Debug\dovizUygulamasi.exe.config
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\bin\Debug\dovizUygulamasi.exe
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\bin\Debug\dovizUygulamasi.pdb
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.exe
+C:\Users\devra\Desktop\C# Projelerim\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.pdb
